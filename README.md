@@ -1,7 +1,3 @@
-# Mission-to-Mars
-
-# surfs_up
-
 # An Analysis of Web Scraping with HTML/CSS
 
 ## Overview of Project
